@@ -1,0 +1,13 @@
+IMP LINKS
+
+webiste link - https://intel-karthiknp-sentimental-analysis.streamlit.app/
+
+github link - https://github.com/palkar22/INTEL-UNNATI-PS-11-SUBMISSION
+
+video link - https://youtu.be/BcgJSP8CrzQ?feature=shared
+
+full dataset link - https://huggingface.co/datasets/palkar22/20000_data_points_intel
+
+finetuning dataset link - https://huggingface.co/datasets/palkar22/intel_unnati
+
+collab notebook link - https://colab.research.google.com/drive/1eQE7fL-NaPgwvR5jDBdRqWMrRPsgjiFN?usp=sharing
