@@ -1,0 +1,3 @@
+-The scrapping is done via beautiful soup and majorly with other tools like bardeen ai and octoparse.
+-kindly download meta_Electronics.jsonl https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/ from for smooth running of program conating data extracted through beautiful soup due to limitation of 100MB file in github.
+-Data containing 20000 records are available in Intel reviews 20000 records final.xlsx(uncleaned) and conclusions_updated.xlsx(cleaned) in 1. MODEL WITH MAIN SCRIPT folder.
