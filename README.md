@@ -13,11 +13,15 @@ DATASET NAME - conclusions_updated (Cleaned dataset with predicted sentiment in 
 
 
 # IMP LINKS
-GitHub link- https://github.com/palkar22/INTEL-UNNATI-PS-11-SUBMISSION
+webiste link - https://intel-karthiknp-sentimental-analysis.streamlit.app/
 
-website link- https://intel-karthiknp-sentimental-analysis.streamlit.app/
+github link - https://github.com/palkar22/INTEL-UNNATI-PS-11-SUBMISSION
 
-video link- https://youtu.be/i_1e732WVyQ?feature=shared
+video link - 
+
+full dataset link - https://huggingface.co/datasets/palkar22/20000_data_points_intel
+ 
+finetuning dataset link - https://huggingface.co/datasets/palkar22/intel_unnati    
 
 
 ----------------------
