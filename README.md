@@ -17,7 +17,7 @@ webiste link - https://intel-karthiknp-sentimental-analysis.streamlit.app/
 
 github link - https://github.com/palkar22/INTEL-UNNATI-PS-11-SUBMISSION
 
-video link - 
+video link - https://youtu.be/BcgJSP8CrzQ?feature=shared
 
 full dataset link - https://huggingface.co/datasets/palkar22/20000_data_points_intel
  
@@ -44,7 +44,7 @@ Do not unzip if running the code Sentimental_analysis_intel.ipynb.
 
 -Scrapping details are available under Scrapping dump folder
 
-Kindly refer to the YOUTUBE VIDEO LINK FOR IMPLEMENTATION (https://youtu.be/i_1e732WVyQ?feature=shared)  incase of any doubt.
+Kindly refer to the YOUTUBE VIDEO LINK FOR IMPLEMENTATION (https://youtu.be/BcgJSP8CrzQ?feature=shared)  incase of any doubt.
 
 ABSTRACT/WORKING OF PROJECT -
 
