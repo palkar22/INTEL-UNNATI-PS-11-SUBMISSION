@@ -23,6 +23,7 @@ full dataset link - https://huggingface.co/datasets/palkar22/20000_data_points_i
  
 finetuning dataset link - https://huggingface.co/datasets/palkar22/intel_unnati    
 
+collab notebook link - https://colab.research.google.com/drive/1eQE7fL-NaPgwvR5jDBdRqWMrRPsgjiFN?usp=sharing
 
 ----------------------
 
