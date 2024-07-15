@@ -25,6 +25,8 @@ finetuning dataset link - https://huggingface.co/datasets/palkar22/intel_unnati
 
 collab notebook link - https://colab.research.google.com/drive/1eQE7fL-NaPgwvR5jDBdRqWMrRPsgjiFN?usp=sharing
 
+pdf link - https://online.publuu.com/585833/1314451
+
 ----------------------
 
 
